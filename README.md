@@ -1,4 +1,4 @@
-# Yuxi-Wang-Protfolio 
+# Yuxiwang-Protfolio 
 
 link to live site https://yuxiwangjack.github.io/Yuxiwang-Portfolio/
 
