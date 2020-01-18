@@ -1,6 +1,6 @@
 # Yuxi-Wang-Protfolio
 
-link to live site https://yuxiwangjack.github.io/Yuxi-Wang-Protfolio/
+link to live site https://yuxiwangjack.github.io/Yuxiwang-Portfolio/
 
 # About me
 I am Yuxi Wang, pronouning with He. I am a second year MSPPM student. I want to do a finance job after graduation and data vitualization will be one important skill that I need to learn
