@@ -11,3 +11,4 @@ In finance job, like investment banking and PE, there are so many oppurtunities 
 # portfolio
 
 [Final Project Phase I: Project Proposal](https://github.com/YuxiWangjack/final-project-part-1/blob/master/part1.md)
+[Final Project Phase II: wireframe](https://yuxiwangjack.github.io/Final-Project-part-II/part2.md)
